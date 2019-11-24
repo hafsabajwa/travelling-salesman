@@ -1,4 +1,8 @@
 # travelling-salesman
+Python version: 2.7
+Testrun: Macbook Pro OS 10.15.1
+
+OBS: NOTE THAT THIS PROGRAM IS WRITTEN IN PYTHON 2.7
 
 This problems solves the travellings salesman  - i.e. the problem of finding the shortes distance between locations - using one, several, or all, of four different algorithms: Exhaustivve search, Hill-climbing, Genetic algorithm, and Hybrid algorithm. These are described below. To run the program, just create an instance of the class Travel with the desired settings passed to the constructor (details in the documentation). Then execute the ‘run’ method. An example is given at the bottom of the script.
 
