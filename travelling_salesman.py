@@ -5,6 +5,8 @@ import copy
 import numpy as np
 import matplotlib.pyplot as pp
 
+# Oystein Kapperud, 2017
+
 '''
 OBS: NOTE THAT THIS PROGRAM IS WRITTEN IN PYTHON 2.7
 
